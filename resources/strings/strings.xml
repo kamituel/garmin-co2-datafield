@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">CO2 Savings</string>
+    <string id="WidgetLabel">CO2 SAVED</string>
+    <string id="SettingsCarEmissionsMenuItemTitle">Car emissions</string>
+    <string id="SettingsCarEmissionsMenuItemSubtitle">CO2 g/km</string>
+    <string id="EmissionsPickerTitle">CO2 g/km</string>
+</strings>
